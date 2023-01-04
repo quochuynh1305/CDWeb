@@ -1,0 +1,146 @@
+    .content p {
+        font-size: 15px;
+        text-align: justify;
+    }
+    /* introduced */
+    
+    h3 {
+        text-align: center;
+    }
+    
+    .background_content {
+        background-color: #FBFBFC;
+        padding: 20px;
+    }
+    
+    .bold {
+        font-weight: bold;
+    }
+    
+    .italics {
+        font-style: italic;
+        text-decoration: underline;
+    }
+    /* shoppingHistories */
+    
+    .background {
+        margin-top: 10px;
+        background-color: #d5dddd;
+        margin-right: 50px;
+    }
+    
+    .background_white {
+        background-color: white;
+        margin-right: 150px;
+        padding-bottom: 10px;
+        padding-top: 2px;
+        margin-left: 150px;
+    }
+    
+    .flex {
+        display: flex;
+    }
+    
+    .flex img {
+        height: 90px;
+        width: 80px;
+        margin-left: -170px;
+    }
+    
+    .flex .name_price {
+        text-align: right;
+        margin-left: 300px;
+        width: 300px;
+    }
+    
+    .flex .name_price .name {
+        padding-bottom: 40px;
+        font-weight: bold;
+    }
+    
+    .div2 {
+        margin-top: -20px;
+        background-color: rgb(243, 239, 239);
+        margin-right: 150px;
+        margin-bottom: 30px;
+        margin-left: 150px;
+    }
+    
+    .flex .quantity {
+        margin-left: -200px;
+        padding-left: 35px;
+        margin-top: -22px;
+        padding-bottom: 10px;
+    }
+    
+    .flex .total {
+        padding-left: 550px;
+        margin-top: -22px;
+        padding-bottom: 10px;
+    }
+    
+    .see {
+        text-align: center;
+        border-bottom: solid 0.5px rgb(207, 202, 202);
+        border-top: solid 0.5px rgb(207, 202, 202);
+    }
+    
+    .div3 {
+        margin-top: -30px;
+    }
+    
+    .div3 button {
+        background-color: #D10024;
+        outline: none;
+        border-radius: 10px;
+        margin-left: 610px;
+        padding: 5px;
+        border-color: #D10024;
+        margin-bottom: 5px;
+        width: 200px;
+    }
+    
+    .div3 button a {
+        color: white;
+    }
+    /* account */
+    
+    .over {
+        padding: 40px;
+    }
+    
+    .lablClass label {
+        padding-bottom: 50px;
+    }
+    
+    .inputClass input {
+        padding-right: 600px;
+        margin-bottom: 25px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    #inputOther {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .date {
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+    
+    .date input {
+        padding-right: 20px;
+    }
+    
+    .radioClass {
+        padding-top: 23px;
+    }
+    
+    .over a {
+        color: #D10024;
+    }
+    .inputOther{
+        border-radius: 50px;
+    }

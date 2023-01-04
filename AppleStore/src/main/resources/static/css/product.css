@@ -1,0 +1,14 @@
+.input-product {
+    height: 40px;
+    padding: 0px 15px;
+    border: 1px solid #E4E7ED;
+    background-color: #FFF;
+    outline: 0px;
+    width: 300px;
+    
+}
+
+textarea.input-product {
+    padding: 15px;
+    min-height: 90px;
+}

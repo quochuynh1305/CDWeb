@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+}
+
+.content p {
+    text-align: justify;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th {
+    text-align: center;
+}
+
+table {
+    border-spacing: 5px;
+}
